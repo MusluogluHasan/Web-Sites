@@ -1,3 +1,3 @@
 # Web-Sites
 Bootstrap 5 Ekzersiz
-[Your link here](http://hasanmusluoglu.epizy.com/Web-Sites/)
+[Your link here](http://musluoglu.epizy.com/web-site/)
